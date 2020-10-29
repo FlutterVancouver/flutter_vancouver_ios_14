@@ -3,7 +3,7 @@
 
 ## Nav 2.0
 
-- Nav 2.0 slides by Boris are available at [google drive](https://docs.google.com/presentation/d/1pXuydm2TjSY-B5LRAB6H35RrhwnDidzIo_NyQn4zhlg/edit#slide=id.ga6143d936e_0_15)
+- Nav 2.0 slides by Boris are available on [google drive](https://docs.google.com/presentation/d/1pXuydm2TjSY-B5LRAB6H35RrhwnDidzIo_NyQn4zhlg/edit#slide=id.ga6143d936e_0_15)
 
 ## iOS 14 Major Updates
 
